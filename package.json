@@ -1,0 +1,17 @@
+{
+  "name": "large-count-repo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@snyk/dep-graph": "^2.5.0"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.5.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.0.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
